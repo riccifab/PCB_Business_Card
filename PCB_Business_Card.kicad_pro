@@ -533,10 +533,10 @@
       "gencad": "",
       "idf": "PCB_Business_Card.emn",
       "netlist": "",
-      "plot": "Output_Files/",
+      "plot": "../OneDrive - Fondazione Istituto Italiano Tecnologia/Desktop/Gerbers/",
       "pos_files": "Output_Files/",
       "specctra_dsn": "",
-      "step": "Blender_Render/PCB_Business_Card_STEP.step",
+      "step": "../OneDrive - Fondazione Istituto Italiano Tecnologia/Desktop/PCB_Business_Card_STEP.step",
       "svg": "Images/",
       "vrml": ""
     },
