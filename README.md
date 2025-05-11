@@ -2,9 +2,9 @@
 The following project is a PCB designed as a business card. This card contains an integrated NFC tag that allows you to share your contact information wirelessly.
 
 <p align="center">
-    <img title="PCB Business Card Render" alt="PCB Business Card" src="./Blender_Render/PCB_Business_Card_Blender.png" width ="75%">
+    <img title="PCB Business Card Render" alt="PCB Business Card" src="./Blender_Render/PCB_Business_Card.png" width ="75%">
 </p>
-<p align="center"><i>Blender Render</i></p>
+<p align="center"><i>3D model</i></p>
 
 ## NFC Principle 🧲
 <b>[NFC (Near Field Communication)](https://www.spiceworks.com/tech/networking/articles/what-is-near-field-communication/)</b> is a group of communication protocols that allows for low speed wireless communication between two electronic devices. 
