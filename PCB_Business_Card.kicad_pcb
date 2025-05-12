@@ -6235,7 +6235,7 @@
 		(layer "Edge.Cuts")
 		(uuid "fd521852-308f-49f2-adb6-4120430aea7e")
 	)
-	(gr_text "Technician\n"
+	(gr_text "\n"
 		(at 174 74.5 0)
 		(layer "F.SilkS")
 		(uuid "042cb927-cd18-40cb-b683-9e2cef51b801")

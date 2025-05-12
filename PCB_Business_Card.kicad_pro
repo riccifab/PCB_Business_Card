@@ -537,7 +537,7 @@
       "pos_files": "Output_Files/",
       "specctra_dsn": "",
       "step": "../OneDrive - Fondazione Istituto Italiano Tecnologia/Desktop/PCB_Business_Card_STEP.step",
-      "svg": "Images/",
+      "svg": "../OneDrive - Fondazione Istituto Italiano Tecnologia/Desktop/",
       "vrml": ""
     },
     "page_layout_descr_file": ""
